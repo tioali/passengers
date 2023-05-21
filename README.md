@@ -32,7 +32,7 @@ Vinícius Pedrini <br>
 
 - [**1 - Compra do Bilhete Digital QR Code**](https://miro.com/app/board/uXjVMGsXavQ=/?share_link_id=306316408096)
 - [**2 - Recarga do Cartão TOP**](https://miro.com/app/board/uXjVMGxm2T8=/?share_link_id=565621297553)
-- [**3 - Recarga do Bilhete Única**]
+- [**3 - Recarga do Bilhete Única**](https://miro.com/app/board/uXjVMG1KKUE=/?share_link_id=732427071198)
 
 # Personas
 
@@ -51,7 +51,7 @@ Vinícius Pedrini <br>
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
+- [Miro](https://miro.com/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
