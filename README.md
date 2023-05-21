@@ -33,19 +33,19 @@ Vinícius Pedrini <br>
 - [**1 - Compra do Bilhete Digital QR Code**](https://miro.com/app/board/uXjVMGsXavQ=/?share_link_id=306316408096)
 <div = align="center">
   <img src="https://github.com/tioali/passengers/assets/106622285/d3335dd4-daf9-4d3e-a7c6-1414f11760cc" width="700px">
-</div>
+</div> <br>
 
 
 - [**2 - Recarga do Cartão TOP**](https://miro.com/app/board/uXjVMGxm2T8=/?share_link_id=565621297553)
 <div = align="center">
   <img src="https://github.com/tioali/passengers/assets/106622285/25d99325-04cc-494c-8f38-3f17b6070d49" width="700px">
-</div>
+</div> <br>
 
 
 - [**3 - Recarga do Bilhete Única**](https://miro.com/app/board/uXjVMG1KKUE=/?share_link_id=732427071198)
 <div = align="center">
   <img src="https://github.com/tioali/passengers/assets/106622285/57e4ebaa-e756-46ac-8154-aab3acf7b179" width="700px">
-</div>
+</div> <br>
 
 # Personas
 - [**1 - Marina | 17 anos | Estudante**](https://passengers.xtensio.com/marina)
