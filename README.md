@@ -35,7 +35,7 @@ Vinícius Pedrini <br>
 - [**3 - Recarga do Bilhete Única**](https://miro.com/app/board/uXjVMG1KKUE=/?share_link_id=732427071198)
 
 # Personas
-- [**3 - Marina | 17 anos | Estudante**](https://passengers.xtensio.com/marina)
+- [**1 - Marina | 17 anos | Estudante**](https://passengers.xtensio.com/marina)
 
 # Cenários
 
