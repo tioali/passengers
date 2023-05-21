@@ -1,8 +1,9 @@
 # A3 - Grupo Passengers | Usabilidade, desenvolvimento web, mobile e jogos
 
+
 ![Capa do Projeto](https://picsum.photos/850/280)
 
-# Integrantes
+# Integrantes 
 
 Alisson Alves de Almeida <br>
 Daniel Correira Rodrigues <br>
@@ -11,20 +12,22 @@ Felipe André Alves Santos <br>
 Maria Eduarda Simon <br>
 Vinícius Pedrini <br>
 
+
 # Índice/Sumário
 
-- [Integrantes](#integrantes)
-- [Sumário](#índice/sumário)
-- [Fluxo de Usuário](#fluxo-de-usuário)
-- [Personas](#tecnologias-usadas)
-- [Cenários](#contribuição)
-- [Protótipo lo-fi](#autores)
-- [Protótipo hi-fi](#licença)
-- [Relatório](#agradecimentos)
-- [Aplicação Web](#licença)
-- [Vídeo](#agradecimentos)
+* [Integrantes](#integrantes)
+* [Sumário](#índice/sumário)
+* [Fluxo de Usuário](#fluxo-de-usuário)
+* [Personas](#personas)
+* [Cenários](#cenários)
+* [Protótipo lo-fi](#protótipo-lo-fi)
+* [Protótipo hi-fi](#protótipo-hi-fi)
+* [Relatório](#relatório)
+* [Aplicação Web](#aplicação-web)
+* [Vídeo](#vídeo)
 
-# Fluxo de Usuário
+
+# Fluxo de Usuário 
 
 - [**1 - Compra do Bilhete Digital QR Code**](https://miro.com/app/board/uXjVMGsXavQ=/?share_link_id=306316408096)
 - [**2 - Recarga do Cartão TOP**](https://miro.com/app/board/uXjVMGxm2T8=/?share_link_id=565621297553)
@@ -44,6 +47,7 @@ Vinícius Pedrini <br>
 
 # Vídeo
 
+
 # Tecnologias Usadas
 
 - [Flutter](https://flutter.dev/)
@@ -54,7 +58,7 @@ Vinícius Pedrini <br>
 
 # Contribuição
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações _pull_ (_Pull Request_) para nós.
+Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Autores
 
@@ -62,8 +66,9 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Licença
 
-Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 # Agradecimentos
 
 Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+
