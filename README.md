@@ -55,7 +55,7 @@ Vinícius Pedrini <br>
 
 - [**1 - Lucas | 29 anos | Bancária**](https://passengers.xtensio.com/lucas)
 <div = align="center">
-  <img src="https://github.com/tioali/passengers/assets/106622285/f044f496-7297-400b-ac3b-cdbc6772a389" width="700px">
+  <img src="https://github.com/tioali/passengers/assets/106622285/62ec12f2-e0f6-47f9-aefb-907ae594c95e" width="700px">
 </div>
 
 
