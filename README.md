@@ -50,22 +50,22 @@ Vinícius Pedrini <br>
 # Personas
 - [**1 - Marina Oliveira | 17 anos | Estudante**](https://passengers.xtensio.com/marina)
 <div = align="center">
-  <img src="https://github.com/tioali/passengers/assets/106622285/f044f496-7297-400b-ac3b-cdbc6772a389" width="700px">
+  <img src="https://github.com/tioali/passengers/assets/106622285/eee4dc61-1fd3-4683-906c-0166dc1890c7" width="700px">
 </div>
 
 - [**2 - Lucas Mendes | 29 anos | Bancária**](https://passengers.xtensio.com/lucas)
 <div = align="center">
-  <img src="https://github.com/tioali/passengers/assets/106622285/62ec12f2-e0f6-47f9-aefb-907ae594c95e" width="700px">
+  <img src="https://github.com/tioali/passengers/assets/106622285/7622c5c8-0b96-470a-83bd-f17c4fda4dba" width="700px">
 </div>
 
 - [**3 - Maria da Silva | 40 anos | Empregada Doméstica**](https://passengers.xtensio.com/maria)
 <div = align="center">
-  <img src="https://github.com/tioali/passengers/assets/106622285/c2a8ed91-17b2-455a-9d93-8fee39a73b07" width="700px">
+  <img src="https://github.com/tioali/passengers/assets/106622285/671dcd99-3c3f-410b-b79e-6b6621cb54c4" width="700px">
 </div>
 
 - [**4 - Antônio Santos | 63 anos | Aposentado**](https://passengers.xtensio.com/antonio)
 <div = align="center">
-  <img src="https://github.com/tioali/passengers/assets/106622285/e06b3a25-cd0d-40d9-b7f6-d4796011b359" width="700px">
+  <img src="https://github.com/tioali/passengers/assets/106622285/d110d07b-1788-4bdf-bef6-0edc1fb832a0" width="700px">
 </div>
 
 
