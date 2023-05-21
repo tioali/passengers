@@ -50,7 +50,7 @@ Vinícius Pedrini <br>
 # Personas
 - [**1 - Marina | 17 anos | Estudante**](https://passengers.xtensio.com/marina)
 <div = align="center">
-  <img src="https://github.com/tioali/passengers/assets/106622285/57e4ebaa-e756-46ac-8154-aab3acf7b179" width="700px">
+  <img src="https://github.com/tioali/passengers/assets/106622285/340b778a-853a-471b-be38-29068c6a6990" width="700px">
 </div>
 
 
