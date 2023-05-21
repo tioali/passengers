@@ -1,36 +1,38 @@
-# Título do Projeto
+# A3 - Grupo Passengers | Usabilidade, desenvolvimento web, mobile e jogos
 
 
 ![Capa do Projeto](https://picsum.photos/850/280)
 
-# Sobre o Projeto
+# Integrantes 
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+Alisson Alves de Almeida <br>
+Daniel Correira Rodrigues <br>
+Danilo Teodoro Brasetti <br>
+Felipe André Alves Santos <br>
+Maria Eduarda Simon <br>
+Vinícius Pedrini <br>
 
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
 
 # Índice/Sumário
 
-* [Sobre](#sobre-o-projeto)
+* [Integrantes](#integrantes)
 * [Sumário](#índice/sumário)
-* [Requisitos Funcionais](#requisitos-funcionais)
-* [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
-* [Autores](#autores)
-* [Licença](#licença)
-* [Agradecimentos](#agradecimentos)
+* [Fluxo de Usuário](#fluxo-de-usuário)
+* [Personas](#tecnologias-usadas)
+* [Cenários](#contribuição)
+* [Protótipo lo-fi](#autores)
+* [Protótipo hi-fi](#licença)
+* [Relatório](#agradecimentos)
+* [Aplicação Web](#licença)
+* [Vídeo](#agradecimentos)
 
 
-# Requisitos Funcionais 
+# Fluxo de Usuário 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [**1 - Compra do Bilhete Digital QR Code**](https://miro.com/app/board/uXjVMGsXavQ=/?share_link_id=306316408096)
+- [**2 - Recarga do Cartão TOP**]
+- [**3 - Recarga do Bilhete Única**]
+
 
 # Tecnologias Usadas
 
@@ -55,3 +57,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 # Agradecimentos
 
 Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+
