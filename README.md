@@ -35,6 +35,7 @@ Vinícius Pedrini <br>
 - [**3 - Recarga do Bilhete Única**](https://miro.com/app/board/uXjVMG1KKUE=/?share_link_id=732427071198)
 
 # Personas
+- [**1 - Marina Oliveira - 17 anos - Estudante **]([https://miro.com/app/board/uXjVMG1KKUE=/?share_link_id=732427071198](https://passengers.xtensio.com/marina))
 
 # Cenários
 
