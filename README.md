@@ -60,7 +60,7 @@ Vinícius Pedrini <br>
 
 - [**3 - Maria da Silva | 40 anos | Empregada Doméstica**](https://passengers.xtensio.com/maria)
 <div = align="center">
-  <img src="https://github.com/tioali/passengers/assets/106622285/33e77ee5-822d-497a-ad13-46c0d8d8889f" width="700px">
+  <img src="https://github.com/tioali/passengers/assets/106622285/c2a8ed91-17b2-455a-9d93-8fee39a73b07" width="700px">
 </div>
 
 
