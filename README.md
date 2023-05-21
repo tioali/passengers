@@ -2,7 +2,7 @@
 # Grupo Passengers
 
 
-![Capa do Projeto](https://github.com/tioali/passengers/assets/106622285/12879ab4-3983-4879-912f-eaea878e794b)
+![Capa do Projeto](https://github.com/tioali/passengers/assets/106622285/6f41a82d-4693-4d00-a2f6-f9b6e9056dd5)
 
 # Integrantes 
 
