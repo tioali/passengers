@@ -48,12 +48,17 @@ Vinícius Pedrini <br>
 </div>
 
 # Personas
-- [**1 - Marina | 17 anos | Estudante**](https://passengers.xtensio.com/marina)
+- [**1 - Marina Oliveira | 17 anos | Estudante**](https://passengers.xtensio.com/marina)
 <div = align="center">
   <img src="https://github.com/tioali/passengers/assets/106622285/f044f496-7297-400b-ac3b-cdbc6772a389" width="700px">
 </div>
 
-- [**1 - Lucas | 29 anos | Bancária**](https://passengers.xtensio.com/lucas)
+- [**2 - Lucas Mendes | 29 anos | Bancária**](https://passengers.xtensio.com/lucas)
+<div = align="center">
+  <img src="https://github.com/tioali/passengers/assets/106622285/62ec12f2-e0f6-47f9-aefb-907ae594c95e" width="700px">
+</div>
+
+- [**3 - Maria da Silva | 40 anos | Empregada Doméstica**](https://passengers.xtensio.com/maria)
 <div = align="center">
   <img src="https://github.com/tioali/passengers/assets/106622285/62ec12f2-e0f6-47f9-aefb-907ae594c95e" width="700px">
 </div>
