@@ -30,7 +30,7 @@ Vinícius Pedrini <br>
 # Fluxo de Usuário 
 
 - [**1 - Compra do Bilhete Digital QR Code**](https://miro.com/app/board/uXjVMGsXavQ=/?share_link_id=306316408096)
-- [**2 - Recarga do Cartão TOP**]
+- [**2 - Recarga do Cartão TOP**](https://miro.com/app/board/uXjVMGxm2T8=/?share_link_id=565621297553)
 - [**3 - Recarga do Bilhete Única**]
 
 
