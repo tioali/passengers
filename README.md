@@ -38,7 +38,7 @@ Vinícius Pedrini <br>
 
 - [**2 - Recarga do Cartão TOP**](https://miro.com/app/board/uXjVMGxm2T8=/?share_link_id=565621297553)
 <div = align="center">
-  <img src="https://github.com/tioali/passengers/assets/106622285/57e4ebaa-e756-46ac-8154-aab3acf7b179" width="700px">
+  <img src="https://github.com/tioali/passengers/assets/106622285/25d99325-04cc-494c-8f38-3f17b6070d49" width="700px">
 </div>
 
 
