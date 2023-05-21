@@ -52,7 +52,7 @@ Vinícius Pedrini <br>
 # Tecnologias Usadas
 
 - [Miro](https://miro.com/)
-- [Xtensio](https://nodejs.org/en/](https://xtensio.com/user-persona-template/)
+- [Xtensio](https://xtensio.com/user-persona-template/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
