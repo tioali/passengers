@@ -1,4 +1,5 @@
-# A3 - Grupo Passengers | Usabilidade, desenvolvimento web, mobile e jogos
+# A3 - Usabilidade, desenvolvimento web, mobile e jogos   
+# Grupo Passengers
 
 
 ![Capa do Projeto](https://picsum.photos/850/280)
