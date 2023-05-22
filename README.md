@@ -20,7 +20,7 @@ Vinícius Pedrini <br>
 * [Sumário](#índice/sumário)
 * [Fluxo de Usuário](#fluxo-de-usuário)
 * [Personas](#personas)
-* [Cenário](#cenários)
+* [Cenários](#cenários)
 * [Protótipo lo-fi](#protótipo-lo-fi)
 * [Protótipo hi-fi](#protótipo-hi-fi)
 * [Relatório](#relatório)
