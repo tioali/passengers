@@ -14,7 +14,7 @@ Maria Eduarda Simon <br>
 Vinícius Pedrini <br>
 
 
-# Índice/Sumário
+# Sumário
 
 * [Integrantes](#integrantes)
 * [Sumário](#índice/sumário)
@@ -69,7 +69,7 @@ Vinícius Pedrini <br>
 </div>
 
 
-# Cenário
+# Cenários
 São 7 da manhã, o despertador toca, ao som do sino do despertador antigo seu Antônio Santos acorda, hoje é dia ir buscar seus remédios no posto de saúde especializado no outro lado da cidade de São Paulo, ao olhar para o lado da cama ele percebe que sua esposa, a dona Luzia, já havia acordado para preparar o café antes de ele sair. O aposentado troca de roupa com muita dificuldade e vai até sua esposa para dividirem a primeira refeição do dia, com suas mãos tremulas e muita dificuldade ele consegue fazer seu desjejum, apesar de todos esses desafios diários ele é muito grato por ter a oportunidade de tomar café com sua esposa amada. <br>
 
 Terminando o café seu Antônio precisa se apressar, hoje dona Luzia não poderá acompanha-lo na busca de seus remédios, ela terá que ficar com seu neto mais novo que está doente e sua filha autônoma tem que trabalhar, sendo assim o aposentado se apressa, apesar dos tremores o remédio que seu Antônio tomou antes do café ajuda a conter a tremedeira, e respira e caminha até o portão de casa em direção a estação de Metro a dois quarteirões de sua casa, ele anda um pouco mais rápido, pois ele precisa estar no posto o quanto antes para pegar uma senha, caso não terá que retornar outro dia. Com 10 minutos de caminhada, ainda ofegante, ao chegar na porta da estação ele lembra que precisa fazer uma recarga em seu cartão TOP, ele ainda não chegou aos 65 anos pelo qual poderá exercer o uso do direito do idoso de utilizar o transporte público de forma gratuita, assim ele procura um ATM mais próximo para fazer sua recarga. <br>
