@@ -99,8 +99,8 @@ Já com seu cartão recarregado, antes de atravessar a catraca, Seu Antônio ouv
 
 - [Miro](https://miro.com/)
 - [Xtensio](https://xtensio.com/user-persona-template/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
+- [Balsamiq](https://balsamiq.com/wireframes/)
+- [Figma](https://www.figma.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 # Contribuição
