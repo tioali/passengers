@@ -93,6 +93,16 @@ Já com seu cartão recarregado, antes de atravessar a catraca, Seu Antônio ouv
 <div = align="center">
   <img src="https://github.com/tioali/passengers/assets/106622285/d346fc79-c66d-4158-86a6-cff10c3c6ff0" width="700px">
 </div> 
+<div = align="center">
+  <img src="https://github.com/tioali/passengers/assets/106622285/bf74d1d3-c048-499f-b875-0c6473d22ca1" width="700px">
+</div> 
+<div = align="center">
+  <img src="https://github.com/tioali/passengers/assets/106622285/35cd93fe-d175-4704-b17e-18267bc7045e" width="700px">
+</div> 
+<div = align="center">
+  <img src="https://github.com/tioali/passengers/assets/106622285/43a31778-0db6-4d19-a477-fea1a4805c71" width="700px">
+</div> 
+
 
 # Aplicação Web
 
