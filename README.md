@@ -89,6 +89,10 @@ Já com seu cartão recarregado, antes de atravessar a catraca, Seu Antônio ouv
 # Protótipo hi-fi
 - [**Modelos hi-fi**](https://www.figma.com/file/fGF6ayzmHYo4GoHO6SERJl?type=design)
 # Relatório
+- **Avaliação Heurística do ATM Top**
+<div = align="center">
+  <img src="https://github.com/tioali/passengers/assets/106622285/d346fc79-c66d-4158-86a6-cff10c3c6ff0" width="700px">
+</div> 
 
 # Aplicação Web
 
