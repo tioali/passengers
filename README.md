@@ -6,12 +6,12 @@
 
 # Integrantes 
 
-Alisson Alves de Almeida <br>
-Daniel Correira Rodrigues <br>
-Danilo Teodoro Brasetti <br>
-Felipe André Alves Santos <br>
-Maria Eduarda Simon <br>
-Vinícius Pedrini <br>
+Alisson Alves de Almeida - RA 32225312 <br>
+Daniel Correira Rodrigues - RA 32215905 <br>
+Danilo Teodoro Brasetti - RA 8222244215 <br>
+Felipe André Alves Santos - RA 8222245748 <br>
+Maria Eduarda Simon - RA 1521120086 <br>
+Vinícius Pedrini - RA 1521120365 <br>
 
 
 # Sumário
