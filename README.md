@@ -111,7 +111,8 @@ Já com seu cartão recarregado, antes de atravessar a catraca, Seu Antônio ouv
 - [Xtensio](https://xtensio.com/user-persona-template/)
 - [Balsamiq](https://balsamiq.com/wireframes/)
 - [Figma](https://www.figma.com/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [StreamYard](https://streamyard.com/)
+- [Premiere](https://www.adobe.com/br/products/premiere.html)
 
 # Contribuição
 
